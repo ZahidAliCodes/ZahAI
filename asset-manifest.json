@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZahidAliCodes/ZahAi.git/static/css/main.e7d4a65e.css",
-    "main.js": "/ZahidAliCodes/ZahAi.git/static/js/main.b2d963d2.js",
+    "main.js": "/ZahidAliCodes/ZahAi.git/static/js/main.2a987e17.js",
     "static/js/453.5c3d8955.chunk.js": "/ZahidAliCodes/ZahAi.git/static/js/453.5c3d8955.chunk.js",
     "static/media/fa-thin-100.ttf": "/ZahidAliCodes/ZahAi.git/static/media/fa-thin-100.54ac01ae3cde4955c094.ttf",
     "static/media/fa-duotone-900.ttf": "/ZahidAliCodes/ZahAi.git/static/media/fa-duotone-900.3f45c5c197f52d283b4a.ttf",
@@ -22,11 +22,11 @@
     "static/media/fa-v4compatibility.woff2": "/ZahidAliCodes/ZahAi.git/static/media/fa-v4compatibility.ba24db420a3bf1f590cb.woff2",
     "index.html": "/ZahidAliCodes/ZahAi.git/index.html",
     "main.e7d4a65e.css.map": "/ZahidAliCodes/ZahAi.git/static/css/main.e7d4a65e.css.map",
-    "main.b2d963d2.js.map": "/ZahidAliCodes/ZahAi.git/static/js/main.b2d963d2.js.map",
+    "main.2a987e17.js.map": "/ZahidAliCodes/ZahAi.git/static/js/main.2a987e17.js.map",
     "453.5c3d8955.chunk.js.map": "/ZahidAliCodes/ZahAi.git/static/js/453.5c3d8955.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7d4a65e.css",
-    "static/js/main.b2d963d2.js"
+    "static/js/main.2a987e17.js"
   ]
 }
