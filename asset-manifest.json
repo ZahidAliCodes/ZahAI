@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZahAI/static/css/main.28549fed.css",
-    "main.js": "/ZahAI/static/js/main.8c648594.js",
+    "main.js": "/ZahAI/static/js/main.6438e07f.js",
     "static/js/453.05864b21.chunk.js": "/ZahAI/static/js/453.05864b21.chunk.js",
     "static/media/fa-thin-100.ttf": "/ZahAI/static/media/fa-thin-100.54ac01ae3cde4955c094.ttf",
     "static/media/fa-duotone-900.ttf": "/ZahAI/static/media/fa-duotone-900.3f45c5c197f52d283b4a.ttf",
@@ -22,11 +22,11 @@
     "static/media/fa-v4compatibility.woff2": "/ZahAI/static/media/fa-v4compatibility.ba24db420a3bf1f590cb.woff2",
     "index.html": "/ZahAI/index.html",
     "main.28549fed.css.map": "/ZahAI/static/css/main.28549fed.css.map",
-    "main.8c648594.js.map": "/ZahAI/static/js/main.8c648594.js.map",
+    "main.6438e07f.js.map": "/ZahAI/static/js/main.6438e07f.js.map",
     "453.05864b21.chunk.js.map": "/ZahAI/static/js/453.05864b21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28549fed.css",
-    "static/js/main.8c648594.js"
+    "static/js/main.6438e07f.js"
   ]
 }
