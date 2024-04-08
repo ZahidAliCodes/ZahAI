@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ZahAI/static/css/main.bc8afe65.css",
+    "main.css": "/ZahAI/static/css/main.28549fed.css",
     "main.js": "/ZahAI/static/js/main.647069a2.js",
     "static/js/453.05864b21.chunk.js": "/ZahAI/static/js/453.05864b21.chunk.js",
     "static/media/fa-thin-100.ttf": "/ZahAI/static/media/fa-thin-100.54ac01ae3cde4955c094.ttf",
@@ -21,12 +21,12 @@
     "static/media/fa-v4compatibility.ttf": "/ZahAI/static/media/fa-v4compatibility.00e264f332e8dbdf60f5.ttf",
     "static/media/fa-v4compatibility.woff2": "/ZahAI/static/media/fa-v4compatibility.ba24db420a3bf1f590cb.woff2",
     "index.html": "/ZahAI/index.html",
-    "main.bc8afe65.css.map": "/ZahAI/static/css/main.bc8afe65.css.map",
+    "main.28549fed.css.map": "/ZahAI/static/css/main.28549fed.css.map",
     "main.647069a2.js.map": "/ZahAI/static/js/main.647069a2.js.map",
     "453.05864b21.chunk.js.map": "/ZahAI/static/js/453.05864b21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc8afe65.css",
+    "static/css/main.28549fed.css",
     "static/js/main.647069a2.js"
   ]
 }
