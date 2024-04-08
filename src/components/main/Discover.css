@@ -1,0 +1,16 @@
+.discover {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+    position: relative;
+    min-height: 97vh;
+    max-height: 97vh;
+    background-color: var(--secondary-color-1);
+    margin: 9px 9px 9px 0;
+    border-radius: var(--border-radius);
+    border: 1px solid #494e53;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
